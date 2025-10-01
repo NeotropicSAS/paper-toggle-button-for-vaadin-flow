@@ -3,14 +3,14 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.neotropic.flow.component</groupId>
     <artifactId>paper-toggle-button-parent</artifactId>
-    <version>2.0</version>
+    <version>0.1.0</version>
     <packaging>pom</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <name>Paper Toggle Button Parent</name>
     <modules>
-        <module>paper-toggle-button-flow</module>
-        <module>paper-toggle-button-flow-demo</module>
+        <module>paper-toggle-button-for-vaadin-flow</module>
+        <module>paper-toggle-button-for-vaadin-flow-demo</module>
     </modules>
 </project>

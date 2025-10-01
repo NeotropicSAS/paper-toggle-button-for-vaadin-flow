@@ -1,7 +1,7 @@
-/paper-toggle-button-flow/target/
-/paper-toggle-button-flow/frontend/generated/
-/paper-toggle-button-flow-demo/target/
-/paper-toggle-button-flow-demo/frontend/generated/
+/paper-toggle-button-for-vaadin-flow/target/
+/paper-toggle-button-for-vaadin-flow/frontend/generated/
+/paper-toggle-button-for-vaadin-flow-demo/target/
+/paper-toggle-button-for-vaadin-flow-demo/frontend/generated/
 
 .idea/
 .vscode/
