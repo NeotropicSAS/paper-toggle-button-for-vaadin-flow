@@ -4,8 +4,8 @@
     <groupId>org.neotropic.flow.component</groupId>
     <artifactId>paper-toggle-button-for-vaadin-flow</artifactId>
     <version>0.1.0</version>
-    <name>Paper Toggle Button Flow</name>
-    <description>Integration of paper-toggle-button for Vaadin platform</description>
+    <name>Paper Toggle Button for Vaadin Flow</name>
+    <description>Integration of paper-toggle-button for the Vaadin platform</description>
 
     <properties>
         <java.version>21</java.version>
